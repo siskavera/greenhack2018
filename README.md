@@ -9,3 +9,10 @@ According to EndsEurope, the number of household appliances that had to be repla
 
  
 Our mission is to inform consumers about the life-span and general ratings of their product based on previous users’ experiences so that they can make the best purchases as they shop online. Through a simple Chrome extension, consumers can go onto major online retailors (Amazon—general, VWR—laboratory), and easily learn how long a product has generally lasted. Additionally, they can inform others of their own experiences of a product.
+
+# Setup
+## Python
+1. Install python3
+2. Install jupyter, with venv
+https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-18-04
+3. Install requirements (from requirements.txt)
